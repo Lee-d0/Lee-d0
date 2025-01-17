@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am learning Frontend Development through an online course called Frontend Simplified and going threw all the practice needed to become a great FrontendDeveloper
 
 * 🌍  I'm based in Plant City, FL, USA
-* 🖥️  See my portfolio at [MyPortolifo](ttp://lee-d0.github.io/E-Portfolio/](https://lee-d0.github.io/My-New-Portfolio/))
+* 🖥️  See my portfolio at [MyPortolifo](https://lee-d0.github.io/My-New-Portfolio/)
 * ✉️  You can contact me at [marmar11137@gamil.com](mailto:marmar11137@gamil.com)
 * 🧠  I'm learning React
 
